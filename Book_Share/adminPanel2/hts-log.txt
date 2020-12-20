@@ -1,0 +1,38 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 27 Dec 2019 12:38:10 at https://www.wrappixel.com/ampleadmin/ampleadmin-html/ampleadmin/index.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*https://www.wrappixel.com/ampleadmin/ampleadmin-html/ampleadmin/index.html*
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f0#f -F  -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://www.wrappixel.com/ampleadmin/ampleadmin-html/ampleadmin/index.html -O1 "C:\Users\91972\Desktop\New folder\adminPanel2" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar +*https://www.wrappixel.com/ampleadmin/ampleadmin-html/ampleadmin/index.html* )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+12:48:56	Warning: 	File not parsed, looks like binary: https://www.wrappixel.com/ampleadmin/dist/css/icons/font-awesome/webfonts/fa-brands-400.woff2
+12:48:57	Warning: 	File not parsed, looks like binary: https://www.wrappixel.com/ampleadmin/dist/css/icons/font-awesome/webfonts/fa-regular-400.woff2
+12:48:57	Warning: 	File not parsed, looks like binary: https://www.wrappixel.com/ampleadmin/dist/css/icons/font-awesome/webfonts/fa-solid-900.woff2
+12:48:58	Warning: 	File not parsed, looks like binary: https://www.wrappixel.com/ampleadmin/dist/css/icons/simple-line-icons/fonts/Simple-Line-Icons.woff2?-i3a2kk
+12:48:58	Warning: 	File not parsed, looks like binary: https://www.wrappixel.com/ampleadmin/dist/css/icons/weather-icons/fonts/weathericons-regular-webfont.woff2
+12:49:01	Warning: 	Retry after error -4 (Connect Error) at link https://www.wrappixel.com/ampleadmin/dist/css/icons/flag-icon-css/flags/dz.svg (from https://www.wrappixel.com/ampleadmin/dist/css/style.min.css)
+12:49:04	Warning: 	File not parsed, looks like binary: https://www.wrappixel.com/ampleadmin/dist/css/icons/material-design-iconic-font/fonts/materialdesignicons-webfont.woff2?v=1.8.36
+12:49:10	Warning: 	File not parsed, looks like binary: https://www.wrappixel.com/ampleadmin/dist/css/icons/crypto-icons/cryptocoins.woff2
+12:49:10	Error: 	"Forbidden" (403) at link https://www.wrappixel.com/assets/images/logos/logo-icon.png (from https://www.wrappixel.com/ampleadmin/ampleadmin-html/ampleadmin/pages-utility-classes.html)
+12:49:32	Error: 	"Forbidden" (403) at link https://www.wrappixel.com/ampleadmin/ampleadmin-html/ampleadmin/cropped.jpg (from https://www.wrappixel.com/ampleadmin/ampleadmin-html/ampleadmin/form-img-cropper.html)
+12:49:34	Error: 	"Forbidden" (403) at link https://www.wrappixel.com/ampleadmin/ampleadmin-html/ampleadmin/dist/js/pages/datatable/details_open.png (from https://www.wrappixel.com/ampleadmin/ampleadmin-html/ampleadmin/table-datatable-api.html)
+12:49:34	Error: 	"Forbidden" (403) at link https://www.wrappixel.com/ampleadmin/ampleadmin-html/ampleadmin/dist/js/pages/datatable/details_close.png (from https://www.wrappixel.com/ampleadmin/ampleadmin-html/ampleadmin/table-datatable-api.html)
+12:49:34	Error: 	"Forbidden" (403) at link https://www.wrappixel.com/ampleadmin/assets/libs/Chart.js/dist/Chart.min.js (from https://www.wrappixel.com/ampleadmin/ampleadmin-html/ampleadmin/chart-chart-js.html)
+12:49:40	Error: 	"Forbidden" (403) at link https://www.wrappixel.com/ampleadmin/ampleadmin-html/ampleadmin/app-contact-detail.html (from https://www.wrappixel.com/ampleadmin/ampleadmin-html/ampleadmin/ui-user-contacts.html)
+12:49:40	Error: 	"Forbidden" (403) at link https://www.wrappixel.com/ampleadmin/assets/extra-libs/taskboard/css/images/ui-bg_highlight-soft_100_eeeeee_1x100.png (from https://www.wrappixel.com/ampleadmin/assets/extra-libs/taskboard/css/jquery-ui.min.css)
+12:49:40	Error: 	"Forbidden" (403) at link https://www.wrappixel.com/ampleadmin/assets/extra-libs/taskboard/css/images/ui-bg_gloss-wave_35_f6a828_500x100.png (from https://www.wrappixel.com/ampleadmin/assets/extra-libs/taskboard/css/jquery-ui.min.css)
+12:49:40	Error: 	"Forbidden" (403) at link https://www.wrappixel.com/ampleadmin/assets/extra-libs/taskboard/css/images/ui-bg_glass_100_f6f6f6_1x400.png (from https://www.wrappixel.com/ampleadmin/assets/extra-libs/taskboard/css/jquery-ui.min.css)
+12:49:40	Error: 	"Forbidden" (403) at link https://www.wrappixel.com/ampleadmin/assets/extra-libs/taskboard/css/images/ui-bg_glass_100_fdf5ce_1x400.png (from https://www.wrappixel.com/ampleadmin/assets/extra-libs/taskboard/css/jquery-ui.min.css)
+12:49:40	Error: 	"Forbidden" (403) at link https://www.wrappixel.com/ampleadmin/assets/extra-libs/taskboard/css/images/ui-bg_glass_65_ffffff_1x400.png (from https://www.wrappixel.com/ampleadmin/assets/extra-libs/taskboard/css/jquery-ui.min.css)
+12:49:40	Error: 	"Forbidden" (403) at link https://www.wrappixel.com/ampleadmin/assets/extra-libs/taskboard/css/images/ui-bg_highlight-soft_75_ffe45c_1x100.png (from https://www.wrappixel.com/ampleadmin/assets/extra-libs/taskboard/css/jquery-ui.min.css)
+12:49:40	Error: 	"Forbidden" (403) at link https://www.wrappixel.com/ampleadmin/assets/extra-libs/taskboard/css/images/ui-bg_diagonals-thick_18_b81900_40x40.png (from https://www.wrappixel.com/ampleadmin/assets/extra-libs/taskboard/css/jquery-ui.min.css)
+12:49:40	Error: 	"Forbidden" (403) at link https://www.wrappixel.com/ampleadmin/assets/extra-libs/taskboard/css/images/ui-icons_222222_256x240.png (from https://www.wrappixel.com/ampleadmin/assets/extra-libs/taskboard/css/jquery-ui.min.css)
+12:49:40	Error: 	"Forbidden" (403) at link https://www.wrappixel.com/ampleadmin/assets/extra-libs/taskboard/css/images/ui-icons_ffffff_256x240.png (from https://www.wrappixel.com/ampleadmin/assets/extra-libs/taskboard/css/jquery-ui.min.css)
+12:49:40	Error: 	"Forbidden" (403) at link https://www.wrappixel.com/ampleadmin/assets/extra-libs/taskboard/css/images/ui-icons_ef8c08_256x240.png (from https://www.wrappixel.com/ampleadmin/assets/extra-libs/taskboard/css/jquery-ui.min.css)
+12:49:40	Error: 	"Forbidden" (403) at link https://www.wrappixel.com/ampleadmin/assets/extra-libs/taskboard/css/images/ui-icons_228ef1_256x240.png (from https://www.wrappixel.com/ampleadmin/assets/extra-libs/taskboard/css/jquery-ui.min.css)
+12:49:40	Error: 	"Forbidden" (403) at link https://www.wrappixel.com/ampleadmin/assets/extra-libs/taskboard/css/images/ui-icons_ffd27a_256x240.png (from https://www.wrappixel.com/ampleadmin/assets/extra-libs/taskboard/css/jquery-ui.min.css)
+12:49:40	Error: 	"Forbidden" (403) at link https://www.wrappixel.com/ampleadmin/assets/extra-libs/taskboard/css/images/ui-bg_diagonals-thick_20_666666_40x40.png (from https://www.wrappixel.com/ampleadmin/assets/extra-libs/taskboard/css/jquery-ui.min.css)
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 minutes 30 seconds : 769 links scanned, 748 files written (50987387 bytes overall) [12913773 bytes received at 18715 bytes/sec], 46920124 bytes transferred using HTTP compression in 696 files, ratio 17%, 32.0 requests per connection
+(19 errors, 8 warnings, 0 messages)
